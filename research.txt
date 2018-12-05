@@ -1,2 +1,5 @@
 Voorbeelden voor emotiv cortex. (Geschreven in JS)
 https://github.com/emotiv/cortex-example
+
+Installeren van een GUI op de Raspberry PI
+https://www.therryvanneerven.nl/how-to-install-raspbian-jessie-on-an-old-raspberry-pi.html
