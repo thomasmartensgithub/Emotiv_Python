@@ -1,0 +1,2 @@
+Voorbeelden voor emotiv cortex. (Geschreven in JS)
+https://github.com/emotiv/cortex-example
